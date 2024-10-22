@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.apitest.courier.CreateCourierTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in org.example.apitest.courier.CreateCourierTests
+initializationError(org.example.apitest.courier.CreateCourierTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Lorg/example/resthandlers/httpclients/CourierHTTPClient;
+Caused by: java.lang.ClassNotFoundException: org.example.resthandlers.httpclients.CourierHTTPClient
+

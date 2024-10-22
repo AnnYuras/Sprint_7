@@ -1,0 +1,14 @@
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/ScooterUrls.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/courier/CreateCourierTests.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/courier/LoginCourierTests.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/entities/requestentities/Courier.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/entities/requestentities/Order.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/entities/responseentities/CourierResponse.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/entities/responseentities/OrderResponse.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/order/CreateOrderTests.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/apitest/order/GetOrdersListTests.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/resthandlers/apihandlers/CourierAPIHandler.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/resthandlers/apihandlers/OrdersAPIHandler.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/resthandlers/httpclients/BaseHTTPClient.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/resthandlers/httpclients/CourierHTTPClient.java
+/Users/annaurasova/Desktop/Sprint_7/src/test/java/org/example/resthandlers/httpclients/OrdersHTTPClient.java
